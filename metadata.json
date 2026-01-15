@@ -1,0 +1,7 @@
+{
+  "name": "CivicServe - Service Organization Portal",
+  "description": "A modern, high-conversion landing page for service organizations and non-profits, featuring a robust download center, impact tracking, and government order management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
